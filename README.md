@@ -1,2 +1,12 @@
 # RCON-in-Discord
-lets you do the minecraft rcon over a discord bot
+
+I'm gonna be real with you, this bot is a pile of junk.
+
+If you still want to use it, for whatever reason, you can use a config file like this:
+
+`token.json`
+```json
+{
+    "token": "your Discord bot token goes here"
+}
+```
